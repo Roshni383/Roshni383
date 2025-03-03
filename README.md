@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Loan Eligibility Prediction**
+- 🔭 I’m currently working on **Angular projects**
 
-- 🌱 I’m currently learning **Data structures using python ,Data science**
+- 🌱 I’m currently learning **SAP and its modules**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roshni383?tab=repositories](https://github.com/Roshni383?tab=repositories)
 
