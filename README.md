@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshni.S</h1>
 <h3 align="center">A passionate frontend developer ,Python programmer .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshni383&label=Profile%20views&color=0e75b6&style=flat" alt="roshni383" /> </p>
+<p align="left"> <img src="https://www.21kschool.com/us/wp-content/uploads/sites/37/2023/04/Girls-coding-myth-2048x2048.png" alt="roshni383" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshni383" alt="roshni383" /></a> </p>
 
